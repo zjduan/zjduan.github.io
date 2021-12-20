@@ -26,7 +26,8 @@ Jie Fu, Xue Geng, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, J
 Weiping Song, **Zhijian Duan**, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang
 
 [Autoint: Automatic feature interaction learning via self-attentive neural networks](https://arxiv.org/abs/1810.11921)  
-Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang. In CIKM 2019.
+Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang.  
+In CIKM 2019.
 
 ## Teaching
 * TA of _Discrete Math (II) and Interactions_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Spring 2021.  
