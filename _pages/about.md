@@ -10,7 +10,7 @@ redirect_from:
 
 I am Zhijian Duan (段志健), a second-yaer phd student in Peking University supervised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). Before that, I received my Bacheor’s degree from Turing Class in EECS dept, Peking University. I had the privilege of working with Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/) and Prof. [Hao dong](https://zsdonghao.github.io/) in Peking University, and Prof. [Jian Tang](https://jian-tang.com/) in Mila.
 
-My research interests are Algorithmic Game Theory, Internet Economics and Machine Learning.
+My research interests are algorithmic game theory, internet economics and machine learning.
 
 ## Research Works
 [PAC Learnability of Approximate Nash Equilibrium in Bimatrix Games](https://arxiv.org/abs/2108.07472)  
