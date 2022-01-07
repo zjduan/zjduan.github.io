@@ -14,20 +14,24 @@ My research interests are algorithmic game theory and machine learning, along wi
 
 ## Research Works
 [PAC Learnability of Approximate Nash Equilibrium in Bimatrix Games](https://arxiv.org/abs/2108.07472)  
-**Zhijian Duan**, Dinghuai Zhang, Wenhan Huang, Yali Du, Yaodong Yang, Jun Wang, Xiaotie Deng
+**Zhijian Duan**, Dinghuai Zhang, Wenhan Huang, Yali Du, Yaodong Yang, Jun Wang, Xiaotie Deng.  
+In *Submission*.
 
 [Factorization Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074)  
-**Zhijian Duan**, Zhili Gong, Qian Qi
+**Zhijian Duan**, Zhili Gong, Qian Qi.  
+In *Submission*.
 
 [Role-Wise Data Augmentation for Knowledge Distillation](https://arxiv.org/abs/2004.08861)  
-Jie Fu, Xue Geng, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong
+Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.
 
-[Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning](https://arxiv.org/abs/1906.09506)  
-Weiping Song, **Zhijian Duan**, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang
+[Ekar: An Explainable Method for Knowledge Aware Recommendation](https://arxiv.org/abs/1906.09506)  
+Weiping Song\*, **Zhijian Duan**\*, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang.
 
 [Autoint: Automatic feature interaction learning via self-attentive neural networks](https://arxiv.org/abs/1810.11921)  
 Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang.  
-In CIKM 2019.
+In *CIKM 2019*.
+
+( * denotes equal contribution)
 
 ## Teaching
 * TA of _Discrete Math (II) and Interactions_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Spring 2021.  
