@@ -13,8 +13,12 @@ I am Zhijian Duan (段志健), a second-year PhD student in Peking University su
 My research interests are algorithmic game theory and machine learning, along with their applications on Internet economics.
 
 ## Research Works
-[PAC Learnability of Approximate Nash Equilibrium in Bimatrix Games](https://arxiv.org/abs/2108.07472)  
-**Zhijian Duan**, Dinghuai Zhang, Wenhan Huang, Yali Du, Yaodong Yang, Jun Wang, Xiaotie Deng.  
+[A Context-Integrated Transformer-Based Neural Network for Auction Design](https://arxiv.org/abs/2201.12489)  
+**Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
+In *Submission*.
+
+[Towards the PAC Learnability of Nash Equilibrium](https://arxiv.org/abs/2108.07472)  
+**Zhijian Duan**, Dinghuai Zhang, Wenhan Huang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
 In *Submission*.
 
 [Factorization Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074)  
