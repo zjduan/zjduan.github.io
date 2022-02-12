@@ -25,13 +25,13 @@ In *Submission*.
 **Zhijian Duan**, Zhili Gong, Qian Qi.  
 In *Submission*.
 
-[Role-Wise Data Augmentation for Knowledge Distillation](https://arxiv.org/abs/2004.08861)  
+[Role-Wise Data Augmentation for Knowledge Distillation](https://arxiv.org/abs/2004.08861).[[code]](https://github.com/bigaidream-projects/role-kd)  
 Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.
 
-[Ekar: An Explainable Method for Knowledge Aware Recommendation](https://arxiv.org/abs/1906.09506)  
+[Ekar: An Explainable Method for Knowledge Aware Recommendation](https://arxiv.org/abs/1906.09506).[[code]](https://github.com/zjduan/Ekar)  
 Weiping Song\*, **Zhijian Duan**\*, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang.
 
-[Autoint: Automatic feature interaction learning via self-attentive neural networks](https://arxiv.org/abs/1810.11921)  
+[Autoint: Automatic feature interaction learning via self-attentive neural networks](https://arxiv.org/abs/1810.11921).[[code]](https://github.com/shichence/AutoInt)  
 Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang.  
 In *CIKM 2019*.
 
