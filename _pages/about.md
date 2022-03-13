@@ -21,9 +21,9 @@ In *Submission*.
 **Zhijian Duan**, Dinghuai Zhang, Wenhan Huang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
 In *Submission*.
 
-[Factorization Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074)  
+<!-- [Factorization Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074)  
 **Zhijian Duan**, Zhili Gong, Qian Qi.  
-In *Submission*.
+In *Submission*. -->
 
 [Role-Wise Data Augmentation for Knowledge Distillation](https://arxiv.org/abs/2004.08861).[[code]](https://github.com/bigaidream-projects/role-kd)  
 Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.
