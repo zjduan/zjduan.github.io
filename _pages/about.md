@@ -13,11 +13,15 @@ I am Zhijian Duan (段志健), a second-year PhD student in Peking University su
 My research interests are algorithmic game theory and machine learning, along with their applications on Internet economics.
 
 ## Research Works
-[A Context-Integrated Transformer-Based Neural Network for Auction Design](https://arxiv.org/abs/2201.12489)  
+[A Context-Integrated Transformer-Based Neural Network for Auction Design](https://arxiv.org/abs/2201.12489).  
 **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
-In *Submission*.
+In *ICML 2022*.
 
-[Towards the PAC Learnability of Nash Equilibrium](https://arxiv.org/abs/2108.07472)  
+[Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33).  
+Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
+In *DASFAA 2022*.
+
+[Towards the PAC Learnability of Nash Equilibrium](https://arxiv.org/abs/2108.07472).  
 **Zhijian Duan**, Dinghuai Zhang, Wenhan Huang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
 In *Submission*.
 
@@ -25,17 +29,17 @@ In *Submission*.
 **Zhijian Duan**, Zhili Gong, Qian Qi.  
 In *Submission*. -->
 
-[Role-Wise Data Augmentation for Knowledge Distillation](https://arxiv.org/abs/2004.08861).[[code]](https://github.com/bigaidream-projects/role-kd)  
-Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.
+<!-- [Role-Wise Data Augmentation for Knowledge Distillation](https://arxiv.org/abs/2004.08861).[[code]](https://github.com/bigaidream-projects/role-kd)  
+Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong. -->
 
-[Ekar: An Explainable Method for Knowledge Aware Recommendation](https://arxiv.org/abs/1906.09506).[[code]](https://github.com/zjduan/Ekar)  
-Weiping Song\*, **Zhijian Duan**\*, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang.
+<!-- [Ekar: An Explainable Method for Knowledge Aware Recommendation](https://arxiv.org/abs/1906.09506).
+Weiping Song\*, **Zhijian Duan**\*, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang. -->
 
 [Autoint: Automatic feature interaction learning via self-attentive neural networks](https://arxiv.org/abs/1810.11921).[[code]](https://github.com/shichence/AutoInt)  
 Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang.  
 In *CIKM 2019*.
 
-( * denotes equal contribution)
+<!-- ( * denotes equal contribution) -->
 
 ## Teaching
 * TA of _Discrete Math (II) and Interactions_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Spring 2021.  
