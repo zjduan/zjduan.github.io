@@ -21,10 +21,10 @@ In *ICML 2022*.
 Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
 In *DASFAA 2022*.
 
-[Towards the PAC Learnability of Nash Equilibrium](https://arxiv.org/abs/2108.07472).  
+<!-- [Towards the PAC Learnability of Nash Equilibrium](https://arxiv.org/abs/2108.07472).  
 **Zhijian Duan**, Dinghuai Zhang, Wenhan Huang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
 In *Submission*.
-
+ -->
 <!-- [Factorization Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074)  
 **Zhijian Duan**, Zhili Gong, Qian Qi.  
 In *Submission*. -->
