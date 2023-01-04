@@ -17,6 +17,10 @@ My research interests are algorithmic game theory and machine learning, along wi
 * Ph.D. Candidate in Computer Software and Theory, Peking University, 2020-2025 (expected). Advisor: [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 ## Publications
+* [Is Nash Equilibrium Approximator Learnable?](https://arxiv.org/abs/2108.07472).  
+**Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
+To appear in *AAMAS 2023*.
+ 
 * [A Context-Integrated Transformer-Based Neural Network for Auction Design](https://arxiv.org/abs/2201.12489).[[code]](https://github.com/zjduan/CITransNet)    
 **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
 In *ICML 2022*.
@@ -30,10 +34,6 @@ Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, 
 In *CIKM 2019*.
 
 ## Preprints
-
-* [Towards the PAC Learnability of Nash Equilibrium](https://arxiv.org/abs/2108.07472).  
-**Zhijian Duan**, Dinghuai Zhang, Wenhan Huang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
- 
 * [Factorization Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074).  
 (Alphabetical) **Zhijian Duan**, Zhili Gong, Qian Qi.  
 
