@@ -17,37 +17,37 @@ My research interests are algorithmic game theory and machine learning, along wi
 * Ph.D. Candidate in Computer Software and Theory, Peking University, 2020-2025 (expected). Advisor: [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 ## Publications
-* [Is Nash Equilibrium Approximator Learnable?](https://arxiv.org/abs/2108.07472).  
+* Is Nash Equilibrium Approximator Learnable? [[arXiv]](https://arxiv.org/abs/2108.07472)  
 **Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
-To appear in *AAMAS 2023*.
+Accepted by *AAMAS-23*.
  
-* [A Context-Integrated Transformer-Based Neural Network for Auction Design](https://arxiv.org/abs/2201.12489).[[code]](https://github.com/zjduan/CITransNet)    
+* A Context-Integrated Transformer-Based Neural Network for Auction Design. [[arXiv]](https://arxiv.org/abs/2201.12489)[[code]](https://github.com/zjduan/CITransNet)    
 **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
-In *ICML 2022*.
+Accepted by *ICML-22*.
 
-* [Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33).  
+* Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33)  
 Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
-In *DASFAA 2022*.
+Accepted by *DASFAA-22*.
 
-* [Autoint: Automatic feature interaction learning via self-attentive neural networks](https://arxiv.org/abs/1810.11921).[[code]](https://github.com/shichence/AutoInt)  
+* Autoint: Automatic feature interaction learning via self-attentive neural networks. [[arXiv]](https://arxiv.org/abs/1810.11921)[[code]](https://github.com/shichence/AutoInt)  
 Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang.  
-In *CIKM 2019*.
+Accepted by *CIKM-19*.
 
 ## Preprints
-* [Factorization Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074).  
+* Factorization Asset Pricing. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074)  
 (Alphabetical) **Zhijian Duan**, Zhili Gong, Qian Qi.  
 
-* [Role-Wise Data Augmentation for Knowledge Distillation](https://arxiv.org/abs/2004.08861).[[code]](https://github.com/bigaidream-projects/role-kd)  
+* Role-Wise Data Augmentation for Knowledge Distillation. [[arXiv]](https://arxiv.org/abs/2004.08861)[[code]](https://github.com/bigaidream-projects/role-kd)  
 Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.
 
-* [Ekar: An Explainable Method for Knowledge Aware Recommendation](https://arxiv.org/abs/1906.09506).  
+* Ekar: An Explainable Method for Knowledge Aware Recommendation. [[arXiv]](https://arxiv.org/abs/1906.09506)  
 Weiping Song\*, **Zhijian Duan**\*, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang.  
 
 ( * denotes equal contribution)
 
 
 ## Academic Service
-* Invited Reviewer (Conference): TheWebConf'22, AAMAS'23
+* Invited Reviewer (Conference): WWW-22, AAMAS-23
 * Invited Reviewer (Journal): TCS
 
 ## Teaching
