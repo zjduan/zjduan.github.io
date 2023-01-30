@@ -17,6 +17,9 @@ My research interests are algorithmic game theory and machine learning, along wi
 * Ph.D. Candidate in Computer Software and Theory, Peking University, 2020-2025 (expected). Advisor: [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 ## Publications and Preprints
+* Are Equivariant Equilibrium Approximators Beneficial? [[arXiv]](https://arxiv.org/abs/2301.11481)  
+**Zhijian Duan**, Yunxuan Ma, Xiaotie Deng.  
+
 * [Is Nash Equilibrium Approximator Learnable?](https://arxiv.org/abs/2108.07472) [[arXiv]](https://arxiv.org/abs/2108.07472)  
 **Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
 Accepted by *AAMAS 2023*.
