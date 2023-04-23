@@ -32,9 +32,6 @@ Accepted by *ICML 2022*.
 Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
 Accepted by *DASFAA 2022*.
 
-* Factorization Asset Pricing. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940074)  
-(Alphabetical) **Zhijian Duan**, Zhili Gong, Qian Qi.  
-
 * Role-Wise Data Augmentation for Knowledge Distillation. [[arXiv]](https://arxiv.org/abs/2004.08861)[[code]](https://github.com/bigaidream-projects/role-kd)  
 Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.
 
