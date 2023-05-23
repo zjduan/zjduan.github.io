@@ -20,6 +20,10 @@ My research focuses on machine learning-aided algorithmic game theory, which inc
 
 ## Publications and Preprints
 
+* A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[arXiv]](https://arxiv.org/abs/2305.12162)  
+**Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng.  
+In *preprint*.
+
 * Are Equivariant Equilibrium Approximators Beneficial? [[arXiv]](https://arxiv.org/abs/2301.11481)  
 **Zhijian Duan**, Yunxuan Ma, Xiaotie Deng.  
 In *ICML 2023*. 
@@ -27,6 +31,10 @@ In *ICML 2023*.
 * Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets.  
 (Alphabetical) Yurong Chen, Zhaohua Chen, Xiaotie Deng, **Zhijian Duan**, Haoran Sun, Qian Wang, Xiang Yan.  
 In *ICML 2023*.
+
+* Learning-Based Ad Auction Design with Externalities: the Framework and A Matching-Based Approach.  
+Ningyuan Li, Yunxuan Ma, Yang Zhao, **Zhijian Duan**, Yurong Chen, Zhilin Zhang, Jian Xu, Bo Zheng, Xiaotie Deng.  
+In *KDD 2023*.
 
 * Is Nash Equilibrium Approximator Learnable? [[arXiv]](https://arxiv.org/abs/2108.07472)  
 **Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
@@ -54,9 +62,8 @@ In *CIKM 2019*.
 
 ( * denotes equal contribution)
 
-
 ## Academic Service
-* Invited Reviewer (Conference): WWW'22, AAMAS'23.  
+* Invited Reviewer (Conference): WWW'22, AAMAS'23, NeurIPS'23.  
 * Invited Reviewer (Journal): TCS.  
 
 ## Teaching
