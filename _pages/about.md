@@ -20,6 +20,7 @@ My research focuses on machine learning-aided algorithmic game theory, which inc
 
 ## Publications and Preprints
 
+### 2023  
 * A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[arXiv]](https://arxiv.org/abs/2305.12162)  
 **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng.  
 In *preprint*.
@@ -28,18 +29,19 @@ In *preprint*.
 **Zhijian Duan**, Yunxuan Ma, Xiaotie Deng.  
 In *ICML 2023*. 
 
-* Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets.  
-(Alphabetical) Yurong Chen, Zhaohua Chen, Xiaotie Deng, **Zhijian Duan**, Haoran Sun, Qian Wang, Xiang Yan.  
+* Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets. [[arXiv]](https://arxiv.org/abs/2306.07709)  
+Yurong Chen\*, Qian Wang\*, **Zhijian Duan**, Haoran Sun, Zhaohua Chen, Xiang Yan, Xiaotie Deng.  
 In *ICML 2023*.
 
 * Learning-Based Ad Auction Design with Externalities: the Framework and A Matching-Based Approach.  
 Ningyuan Li, Yunxuan Ma, Yang Zhao, **Zhijian Duan**, Yurong Chen, Zhilin Zhang, Jian Xu, Bo Zheng, Xiaotie Deng.  
 In *KDD 2023*.
 
-* Is Nash Equilibrium Approximator Learnable? [[arXiv]](https://arxiv.org/abs/2108.07472)  
+* [Is Nash Equilibrium Approximator Learnable?](https://dl.acm.org/doi/10.5555/3545946.3598642) [[arXiv]](https://arxiv.org/abs/2108.07472)  
 **Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
 In *AAMAS 2023*.
- 
+
+### 2022
 * [A Context-Integrated Transformer-Based Neural Network for Auction Design](https://proceedings.mlr.press/v162/duan22a/duan22a.pdf). [[arXiv]](https://arxiv.org/abs/2201.12489)[[code]](https://github.com/zjduan/CITransNet)    
 **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
 In *ICML 2022*.
@@ -48,6 +50,7 @@ In *ICML 2022*.
 Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
 In *DASFAA 2022*.
 
+### Before 2022
 * Role-Wise Data Augmentation for Knowledge Distillation. [[arXiv]](https://arxiv.org/abs/2004.08861)[[code]](https://github.com/bigaidream-projects/role-kd)  
 Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.  
 In *preprint*.
