@@ -21,15 +21,15 @@ My research focuses on machine learning-aided algorithmic game theory, which inc
 ## Publications and Preprints
 
 ### 2023  
-* A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[arXiv]](https://arxiv.org/abs/2305.12162)  
+* A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[ArXiv]](https://arxiv.org/abs/2305.12162)  
 **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng.  
 In *preprint*.
 
-* Are Equivariant Equilibrium Approximators Beneficial? [[arXiv]](https://arxiv.org/abs/2301.11481)  
+* Are Equivariant Equilibrium Approximators Beneficial? [[ArXiv]](https://arxiv.org/abs/2301.11481)  
 **Zhijian Duan**, Yunxuan Ma, Xiaotie Deng.  
 In *ICML 2023*. 
 
-* Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets. [[arXiv]](https://arxiv.org/abs/2306.07709)  
+* Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets. [[ArXiv]](https://arxiv.org/abs/2306.07709)  
 Yurong Chen\*, Qian Wang\*, **Zhijian Duan**, Haoran Sun, Zhaohua Chen, Xiang Yan, Xiaotie Deng.  
 In *ICML 2023*.
 
@@ -37,29 +37,29 @@ In *ICML 2023*.
 Ningyuan Li, Yunxuan Ma, Yang Zhao, **Zhijian Duan**, Yurong Chen, Zhilin Zhang, Jian Xu, Bo Zheng, Xiaotie Deng.  
 In *KDD 2023*.
 
-* [Is Nash Equilibrium Approximator Learnable?](https://dl.acm.org/doi/10.5555/3545946.3598642) [[arXiv]](https://arxiv.org/abs/2108.07472)  
+* Is Nash Equilibrium Approximator Learnable? [[Proceedings]](https://dl.acm.org/doi/10.5555/3545946.3598642)[[ArXiv]](https://arxiv.org/abs/2108.07472)  
 **Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
 In *AAMAS 2023*.
 
 ### 2022
-* [A Context-Integrated Transformer-Based Neural Network for Auction Design](https://proceedings.mlr.press/v162/duan22a/duan22a.pdf). [[arXiv]](https://arxiv.org/abs/2201.12489)[[code]](https://github.com/zjduan/CITransNet)    
+* A Context-Integrated Transformer-Based Neural Network for Auction Design. [[Proceedings]](https://proceedings.mlr.press/v162/duan22a.html)[[ArXiv]](https://arxiv.org/abs/2201.12489)[[Code]](https://github.com/zjduan/CITransNet)    
 **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
 In *ICML 2022*.
 
-* [Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33)  
+* Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity. [[Conference Paper]](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33)  
 Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
 In *DASFAA 2022*.
 
 ### Before 2022
-* Role-Wise Data Augmentation for Knowledge Distillation. [[arXiv]](https://arxiv.org/abs/2004.08861)[[code]](https://github.com/bigaidream-projects/role-kd)  
+* Role-Wise Data Augmentation for Knowledge Distillation. [[ArXiv]](https://arxiv.org/abs/2004.08861)[[Code]](https://github.com/bigaidream-projects/role-kd)  
 Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.  
 In *preprint*.
 
-* Ekar: An Explainable Method for Knowledge Aware Recommendation. [[arXiv]](https://arxiv.org/abs/1906.09506)  
+* Ekar: An Explainable Method for Knowledge Aware Recommendation. [[ArXiv]](https://arxiv.org/abs/1906.09506)  
 Weiping Song\*, **Zhijian Duan**\*, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang.  
 In *preprint*.
 
-* [Autoint: Automatic feature interaction learning via self-attentive neural networks](https://dl.acm.org/doi/10.1145/3357384.3357925). [[arXiv]](https://arxiv.org/abs/1810.11921)[[code]](https://github.com/shichence/AutoInt)  
+* Autoint: Automatic feature interaction learning via self-attentive neural networks. [[Proceedings]](https://dl.acm.org/doi/10.1145/3357384.3357925)[[ArXiv]](https://arxiv.org/abs/1810.11921)[[Code]](https://github.com/shichence/AutoInt)  
 Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang.  
 In *CIKM 2019*.
 
