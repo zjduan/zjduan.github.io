@@ -19,38 +19,35 @@ My research focuses on machine learning-aided algorithmic game theory, which inc
 * Ph.D. in Computer Software and Theory, [CFCS](cfcs.pku.edu.cn/english/), Peking University, 2020-2025 (expected). Advisor: [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 ## Publications and Preprints
-
-### 2023  
+ 
 * A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[ArXiv]](https://arxiv.org/abs/2305.12162)  
 **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng.  
 In *preprint*.
 
 * Are Equivariant Equilibrium Approximators Beneficial? [[ArXiv]](https://arxiv.org/abs/2301.11481)  
 **Zhijian Duan**, Yunxuan Ma, Xiaotie Deng.  
-In *ICML 2023*. 
+*Proceedings of the 40th International Conference on Machine Learning (ICML)*, 2023.
 
 * Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets. [[ArXiv]](https://arxiv.org/abs/2306.07709)  
 Yurong Chen\*, Qian Wang\*, **Zhijian Duan**, Haoran Sun, Zhaohua Chen, Xiang Yan, Xiaotie Deng.  
-In *ICML 2023*.
+*Proceedings of the 40th International Conference on Machine Learning (ICML)*, 2023.
 
-* Learning-Based Ad Auction Design with Externalities: the Framework and A Matching-Based Approach.  
+* Learning-Based Ad Auction Design with Externalities: the Framework and A Matching-Based Approach. [[Proceedings]](https://dl.acm.org/doi/abs/10.1145/3580305.3599403)  
 Ningyuan Li, Yunxuan Ma, Yang Zhao, **Zhijian Duan**, Yurong Chen, Zhilin Zhang, Jian Xu, Bo Zheng, Xiaotie Deng.  
-In *KDD 2023*.
+*Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023.
 
 * Is Nash Equilibrium Approximator Learnable? [[Proceedings]](https://dl.acm.org/doi/10.5555/3545946.3598642)[[ArXiv]](https://arxiv.org/abs/2108.07472)  
 **Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
-In *AAMAS 2023*.
+*Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2023.
 
-### 2022
 * A Context-Integrated Transformer-Based Neural Network for Auction Design. [[Proceedings]](https://proceedings.mlr.press/v162/duan22a.html)[[ArXiv]](https://arxiv.org/abs/2201.12489)[[Code]](https://github.com/zjduan/CITransNet)    
 **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
-In *ICML 2022*.
+*Proceedings of the 39th International Conference on Machine Learning (ICML)*, 2022.
 
 * Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity. [[Conference Paper]](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33)  
 Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
-In *DASFAA 2022*.
+*International Conference on Database Systems for Advanced Applications (DASFAA)*, 2022.
 
-### Before 2022
 * Role-Wise Data Augmentation for Knowledge Distillation. [[ArXiv]](https://arxiv.org/abs/2004.08861)[[Code]](https://github.com/bigaidream-projects/role-kd)  
 Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.  
 In *preprint*.
@@ -61,7 +58,7 @@ In *preprint*.
 
 * Autoint: Automatic feature interaction learning via self-attentive neural networks. [[Proceedings]](https://dl.acm.org/doi/10.1145/3357384.3357925)[[ArXiv]](https://arxiv.org/abs/1810.11921)[[Code]](https://github.com/shichence/AutoInt)  
 Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang.  
-In *CIKM 2019*.
+*Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM)*, 2019.
 
 ( * denotes equal contribution)
 
