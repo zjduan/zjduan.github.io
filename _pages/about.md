@@ -22,7 +22,7 @@ My research focuses on machine learning-aided algorithmic game theory, which inc
  
 * A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[ArXiv]](https://arxiv.org/abs/2305.12162)  
 **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng.  
-In *preprint*.
+*37th Conference on Neural Information Processing Systems (NeurIPS)*, 2023. <font color=red>(spotlight)</font>  
 
 * Are Equivariant Equilibrium Approximators Beneficial? [[ArXiv]](https://arxiv.org/abs/2301.11481)  
 **Zhijian Duan**, Yunxuan Ma, Xiaotie Deng.  
