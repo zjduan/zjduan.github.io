@@ -14,21 +14,17 @@ During my undergraduate studies, I had the privilege of working with Professor [
 
 My research focuses on machine learning-aided algorithmic game theory, which includes mechanism design, equilibrium computation, and decision making, as well as their applications in advertisement and recommendation. For more information, please refer to my publication list.
 
-## Education
-* B.S. in Computer Science, [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University, 2016-2020, GPA 3.72/4.0 (Top 15%).
-* Ph.D. in Computer Software and Theory, [CFCS](cfcs.pku.edu.cn/english/), Peking University, 2020-2025 (expected). Advisor: [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
-
 ## Publications and Preprints
  
 * A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[ArXiv]](https://arxiv.org/abs/2305.12162)  
 **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng.  
-*37th Conference on Neural Information Processing Systems (NeurIPS)*, 2023. <font color=red>(spotlight)</font>  
+*Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS)*, 2023. <font color=red>(spotlight)</font>  
 
-* Are Equivariant Equilibrium Approximators Beneficial? [[ArXiv]](https://arxiv.org/abs/2301.11481)  
+* Are Equivariant Equilibrium Approximators Beneficial? [[Proceedings]](https://proceedings.mlr.press/v202/duan23d.html)[[ArXiv]](https://arxiv.org/abs/2301.11481)  
 **Zhijian Duan**, Yunxuan Ma, Xiaotie Deng.  
 *Proceedings of the 40th International Conference on Machine Learning (ICML)*, 2023.
 
-* Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets. [[ArXiv]](https://arxiv.org/abs/2306.07709)  
+* Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets. [[Proceedings]](https://proceedings.mlr.press/v202/chen23ac.html)[[ArXiv]](https://arxiv.org/abs/2306.07709)  
 Yurong Chen\*, Qian Wang\*, **Zhijian Duan**, Haoran Sun, Zhaohua Chen, Xiang Yan, Xiaotie Deng.  
 *Proceedings of the 40th International Conference on Machine Learning (ICML)*, 2023.
 
@@ -44,9 +40,9 @@ Ningyuan Li, Yunxuan Ma, Yang Zhao, **Zhijian Duan**, Yurong Chen, Zhilin Zhang,
 **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
 *Proceedings of the 39th International Conference on Machine Learning (ICML)*, 2022.
 
-* Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity. [[Conference Paper]](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33)  
+* Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity. [[Proceedings]](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33)  
 Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
-*International Conference on Database Systems for Advanced Applications (DASFAA)*, 2022.
+*Proceedings of the 27th International Conference on Database Systems for Advanced Applications (DASFAA)*, 2022.
 
 * Role-Wise Data Augmentation for Knowledge Distillation. [[ArXiv]](https://arxiv.org/abs/2004.08861)[[Code]](https://github.com/bigaidream-projects/role-kd)  
 Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.  
@@ -62,8 +58,12 @@ Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, 
 
 ( * denotes equal contribution)
 
+## Education
+* B.S. in Computer Science, [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University, 2016-2020, GPA 3.72/4.0 (Top 15%).
+* Ph.D. in Computer Software and Theory, [CFCS](cfcs.pku.edu.cn/english/), Peking University, 2020-2025 (expected). Advisor: [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
+
 ## Academic Service
-* Invited Reviewer (Conference): WWW'22, AAMAS'23, NeurIPS'23.  
+* Invited Reviewer (Conference): WWW'22, AAMAS'23, NeurIPS'23, ICLR'23.  
 * Invited Reviewer (Journal): TCS.  
 
 ## Teaching
