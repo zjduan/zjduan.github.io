@@ -63,7 +63,7 @@ Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, 
 * Ph.D. in Computer Software and Theory, [CFCS](cfcs.pku.edu.cn/english/), Peking University, 2020-2025 (expected). Advisor: [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
 
 ## Academic Service
-* Invited Reviewer (Conference): WWW'22, AAMAS'23, NeurIPS'23, ICLR'23.  
+* Invited Reviewer (Conference): WWW'22, AAMAS'23, NeurIPS'23, ICLR'24.  
 * Invited Reviewer (Journal): TCS.  
 
 ## Teaching
