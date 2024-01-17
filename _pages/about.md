@@ -15,6 +15,10 @@ During my undergraduate studies, I had the privilege of working with Professor [
 My research focuses on machine learning-aided algorithmic game theory, which includes mechanism design, equilibrium computation, and decision making, as well as their applications in advertisement and recommendation. For more information, please refer to my publication list.
 
 ## Publications and Preprints
+
+* A Survey on Algorithms for Nash Equilibria in Finite Normal-Form Games. [[Article]](https://www.sciencedirect.com/science/article/pii/S1574013723000801)[[ArXiv]](https://arxiv.org/abs/2312.11063)  
+Hanyu Li, Wenhan Huang, **Zhijian Duan**, David Henry Mguni, Kun Shao, Jun Wang, Xiaotie Deng.  
+*Computer Science Review*, 2024.
  
 * A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[ArXiv]](https://arxiv.org/abs/2305.12162)  
 **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng.  
