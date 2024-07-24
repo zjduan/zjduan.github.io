@@ -21,55 +21,35 @@ My research focuses on the intersection of algorithmic game theory and machine l
   
 For more information, please refer to my publication list.
 
-## Publications and Preprints
+## Publications
 
-* Scalable Virtual Valuations Combinatorial Auction Design by Combining Zeroth-Order and First-Order Optimization Method. [[ArXiv](https://arxiv.org/abs/2402.11904)]  
-**Zhijian Duan**\*, Haoran Sun\*, Yichong Xia, Siqiang Wang, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng.  
-In preprint, 2024.
+* Hanyu Li, Wenhan Huang, **Zhijian Duan**, David Henry Mguni, Kun Shao, Jun Wang, Xiaotie Deng. [A Survey on Algorithms for Nash Equilibria in Finite Normal-Form Games](https://www.sciencedirect.com/science/article/pii/S1574013723000801). In **Computer Science Review, 2024**. [[arXiv]](https://arXiv.org/abs/2312.11063)
+  
+* **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng. [A Scalable Neural Network for DSIC Affine Maximizer Auction Design](https://dl.acm.org/doi/10.5555/3666122.3668571). In **NeurIPS 2023**, spotlight (top 5\%). [[arXiv]](https://arXiv.org/abs/2305.12162)[[Code]](https://github.com/Haoran0301/AMenuNet)
 
-* A Survey on Algorithms for Nash Equilibria in Finite Normal-Form Games. [[Article]](https://www.sciencedirect.com/science/article/pii/S1574013723000801)[[ArXiv]](https://arxiv.org/abs/2312.11063)  
-Hanyu Li, Wenhan Huang, **Zhijian Duan**, David Henry Mguni, Kun Shao, Jun Wang, Xiaotie Deng.  
-In **Computer Science Review, 2024**.
- 
-* A Scalable Neural Network for DSIC Affine Maximizer Auction Design. [[OpenReview]](https://openreview.net/forum?id=cNb5hkTfGC)[[ArXiv]](https://arxiv.org/abs/2305.12162)[[Code]](https://github.com/Haoran0301/AMenuNet)  
-**Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng.  
-In **NeurIPS 2023, spotlight (~4\%)**.
+* **Zhijian Duan**, Yunxuan Ma, Xiaotie Deng. [Are Equivariant Equilibrium Approximators Beneficial?](https://proceedings.mlr.press/v202/duan23d.html) In **ICML 2023**. [[arXiv]](https://arXiv.org/abs/2301.11481)  
 
-* Are Equivariant Equilibrium Approximators Beneficial? [[Proceedings]](https://proceedings.mlr.press/v202/duan23d.html)[[ArXiv]](https://arxiv.org/abs/2301.11481)  
-**Zhijian Duan**, Yunxuan Ma, Xiaotie Deng.  
-In **ICML 2023**.
+* Yurong Chen\*, Qian Wang\*, **Zhijian Duan**, Haoran Sun, Zhaohua Chen, Xiang Yan, Xiaotie Deng. [Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets](https://proceedings.mlr.press/v202/chen23ac.html). In **ICML 2023**. [[arXiv]](https://arXiv.org/abs/2306.07709)
 
-* Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets. [[Proceedings]](https://proceedings.mlr.press/v202/chen23ac.html)[[ArXiv]](https://arxiv.org/abs/2306.07709)  
-Yurong Chen\*, Qian Wang\*, **Zhijian Duan**, Haoran Sun, Zhaohua Chen, Xiang Yan, Xiaotie Deng.  
-In **ICML 2023**.
+* Ningyuan Li, Yunxuan Ma, Yang Zhao, **Zhijian Duan**, Yurong Chen, Zhilin Zhang, Jian Xu, Bo Zheng, Xiaotie Deng. [Learning-Based Ad Auction Design with Externalities: the Framework and A Matching-Based Approach](https://dl.acm.org/doi/abs/10.1145/3580305.3599403). In **KDD 2023**.
 
-* Learning-Based Ad Auction Design with Externalities: the Framework and A Matching-Based Approach. [[Proceedings]](https://dl.acm.org/doi/abs/10.1145/3580305.3599403)  
-Ningyuan Li, Yunxuan Ma, Yang Zhao, **Zhijian Duan**, Yurong Chen, Zhilin Zhang, Jian Xu, Bo Zheng, Xiaotie Deng.  
-In **KDD 2023**.
+* **Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng. [Is Nash Equilibrium Approximator Learnable?](https://dl.acm.org/doi/10.5555/3545946.3598642) In **AAMAS 2023**. [[arXiv]](https://arXiv.org/abs/2108.07472)
+  
+* **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng. [A Context-Integrated Transformer-Based Neural Network for Auction Design](https://proceedings.mlr.press/v162/duan22a.html). In **ICML 2022**. [[arXiv]](https://arXiv.org/abs/2201.12489)[[code]](https://github.com/zjduan/CITransNet)
 
-* Is Nash Equilibrium Approximator Learnable? [[Proceedings]](https://dl.acm.org/doi/10.5555/3545946.3598642)[[ArXiv]](https://arxiv.org/abs/2108.07472)  
-**Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng.  
-In **AAMAS 2023**.
+* Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao. [Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33). In **DASFAA 2022**.
 
-* A Context-Integrated Transformer-Based Neural Network for Auction Design. [[Proceedings]](https://proceedings.mlr.press/v162/duan22a.html)[[ArXiv]](https://arxiv.org/abs/2201.12489)[[Code]](https://github.com/zjduan/CITransNet)    
-**Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng.  
-In **ICML 2022**.
+* Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang. [Autoint: Automatic feature interaction learning via self-attentive neural networks](https://dl.acm.org/doi/10.1145/3357384.3357925). In **CIKM 2019**. [[arXiv]](https://arXiv.org/abs/1810.11921)[[code]](https://github.com/shichence/AutoInt)  
 
-* Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity. [[Proceedings]](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33)  
-Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao.  
-In **DASFAA 2022**.
+## Preprints
 
-* Role-Wise Data Augmentation for Knowledge Distillation. [[ArXiv]](https://arxiv.org/abs/2004.08861)[[Code]](https://github.com/bigaidream-projects/role-kd)  
-Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong.  
-In preprint, 2020.
+* **Zhijian Duan**\*, Haoran Sun\*, Yichong Xia, Siqiang Wang, Zhilin Zhang, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. [Automated Deterministic Auction Design with Objective Decomposition](https://arXiv.org/abs/2402.11904). 2024. [[arXiv](https://arXiv.org/abs/2402.11904)]
 
-* Ekar: An Explainable Method for Knowledge Aware Recommendation. [[ArXiv]](https://arxiv.org/abs/1906.09506)  
-Weiping Song\*, **Zhijian Duan**\*, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang.  
-In preprint, 2019.
+* Yunxuan Ma, Yide Bian, Hao Xu, Weitao Yang, Jingshu Zhao, **Zhijian Duan**, Feng Wang, Xiaotie Deng. [Large-Scale Contextual Market Equilibrium Computation through Deep Learning](https://arXiv.org/abs/2406.15459). 2024. [[arXiv](https://arXiv.org/abs/2406.15459)]  
 
-* Autoint: Automatic feature interaction learning via self-attentive neural networks. [[Proceedings]](https://dl.acm.org/doi/10.1145/3357384.3357925)[[ArXiv]](https://arxiv.org/abs/1810.11921)[[Code]](https://github.com/shichence/AutoInt)  
-Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang.  
-In **CIKM 2019**.
+* Jie Fu\*, Xue Geng\*, **Zhijian Duan**, Bohan Zhuang, Xingdi Yuan, Adam Trischler, Jie Lin, Chris Pal, Hao Dong. 2020. [Role-Wise Data Augmentation for Knowledge Distillation](https://arXiv.org/abs/2004.08861). [[arXiv]](https://arXiv.org/abs/2004.08861)[[Code]](https://github.com/bigaidream-projects/role-kd)  
+
+* Weiping Song\*, **Zhijian Duan**\*, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang. [Ekar: An Explainable Method for Knowledge Aware Recommendation](https://arXiv.org/abs/1906.09506). 2019. [[arXiv]](https://arXiv.org/abs/1906.09506)
 
 ( * denotes equal contribution)
 
@@ -78,8 +58,8 @@ In **CIKM 2019**.
 * B.S. in Computer Science, [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University, 2016-2020, GPA 3.72/4.0 (Top 15%).
 
 ## Academic Service
-* Invited Reviewer (Conference): WWW'22, AAMAS'23, NeurIPS'23, ICLR'24.  
-* Invited Reviewer (Journal): TCS.  
+* Invited Reviewer (Conference): WWW'22, AAMAS'23, NeurIPS'23'24, ICLR'24.  
+* Invited Reviewer (Journal): TCS, ACML'24.  
 
 ## Teaching
 * TA of _ALgorithmic Game Theory_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Fall 2023.  
