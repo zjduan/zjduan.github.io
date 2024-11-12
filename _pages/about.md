@@ -23,6 +23,8 @@ For more information, please refer to my publication list.
 
 ## Publications
 
+* Jian Xu, Zhilin Zhang, Zongqing Lu, Xiaotie Deng, Michael P. Wellman, Chuan Yu, Shuai Dou, Yusen Huo, Zhiwei Xu, **Zhijian Duan**, Shaopan Xiong, Chuang Liu, Ningyuan Li, Kefan Su, Wei Gong, Bo Zheng. [Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games](https://openreview.net/forum?id=ZejUjZUF6i). In **NeurIPS 2024 Competition Track**.
+
 * Hanyu Li, Wenhan Huang, **Zhijian Duan**, David Henry Mguni, Kun Shao, Jun Wang, Xiaotie Deng. [A Survey on Algorithms for Nash Equilibria in Finite Normal-Form Games](https://www.sciencedirect.com/science/article/pii/S1574013723000801). In **Computer Science Review, 2024**. [[arXiv]](https://arXiv.org/abs/2312.11063)
   
 * **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng. [A Scalable Neural Network for DSIC Affine Maximizer Auction Design](https://dl.acm.org/doi/10.5555/3666122.3668571). In **NeurIPS 2023**, spotlight (top 5\%). [[arXiv]](https://arXiv.org/abs/2305.12162)[[Code]](https://github.com/Haoran0301/AMenuNet)
@@ -58,8 +60,8 @@ For more information, please refer to my publication list.
 * B.S. in Computer Science, [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University, 2016-2020, GPA 3.72/4.0 (Top 15%).
 
 ## Academic Service
-* Invited Reviewer (Conference): WWW'22, AAMAS'23, NeurIPS'23'24, ICLR'24.  
-* Invited Reviewer (Journal): TCS, ACML'24.  
+* Invited Reviewer (Conference): WWW'22, AAMAS'23'25, NeurIPS'23'24, ICLR'24'25, KDD'25.  
+* Invited Reviewer (Journal): TCS, ACML.  
 
 ## Teaching
 * TA of _ALgorithmic Game Theory_ by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Fall 2023.  
