@@ -23,24 +23,16 @@ For more information, please refer to my publication list.
 
 ## Publications
 
+* **Zhijian Duan**, Yusen Huo, Tianyu Wang, Zhilin Zhang, Yeshu Li, Chuan Yu, Jian Xu, Bo Zheng, Xiaotie Deng. [An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising](https://openreview.net/forum?id=a4XK2O57Uh). In **KDD 2025**.
 * Jian Xu, Zhilin Zhang, Zongqing Lu, Xiaotie Deng, Michael P. Wellman, Chuan Yu, Shuai Dou, Yusen Huo, Zhiwei Xu, **Zhijian Duan**, Shaopan Xiong, Chuang Liu, Ningyuan Li, Kefan Su, Wei Gong, Bo Zheng. [Auto-Bidding in Large-Scale Auctions: Learning Decision-Making in Uncertain and Competitive Games](https://openreview.net/forum?id=ZejUjZUF6i). In **NeurIPS 2024 Competition Track**.
-
 * Hanyu Li, Wenhan Huang, **Zhijian Duan**, David Henry Mguni, Kun Shao, Jun Wang, Xiaotie Deng. [A Survey on Algorithms for Nash Equilibria in Finite Normal-Form Games](https://www.sciencedirect.com/science/article/pii/S1574013723000801). In **Computer Science Review, 2024**. [[arXiv]](https://arXiv.org/abs/2312.11063)
-  
 * **Zhijian Duan**, Haoran Sun, Yurong Chen, Xiaotie Deng. [A Scalable Neural Network for DSIC Affine Maximizer Auction Design](https://dl.acm.org/doi/10.5555/3666122.3668571). In **NeurIPS 2023**, spotlight (top 5\%). [[arXiv]](https://arXiv.org/abs/2305.12162)[[Code]](https://github.com/Haoran0301/AMenuNet)
-
 * **Zhijian Duan**, Yunxuan Ma, Xiaotie Deng. [Are Equivariant Equilibrium Approximators Beneficial?](https://proceedings.mlr.press/v202/duan23d.html) In **ICML 2023**. [[arXiv]](https://arXiv.org/abs/2301.11481)  
-
 * Yurong Chen\*, Qian Wang\*, **Zhijian Duan**, Haoran Sun, Zhaohua Chen, Xiang Yan, Xiaotie Deng. [Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets](https://proceedings.mlr.press/v202/chen23ac.html). In **ICML 2023**. [[arXiv]](https://arXiv.org/abs/2306.07709)
-
 * Ningyuan Li, Yunxuan Ma, Yang Zhao, **Zhijian Duan**, Yurong Chen, Zhilin Zhang, Jian Xu, Bo Zheng, Xiaotie Deng. [Learning-Based Ad Auction Design with Externalities: the Framework and A Matching-Based Approach](https://dl.acm.org/doi/abs/10.1145/3580305.3599403). In **KDD 2023**.
-
 * **Zhijian Duan**, Wenhan Huang, Dinghuai Zhang, Yali Du, Jun Wang, Yaodong Yang, Xiaotie Deng. [Is Nash Equilibrium Approximator Learnable?](https://dl.acm.org/doi/10.5555/3545946.3598642) In **AAMAS 2023**. [[arXiv]](https://arXiv.org/abs/2108.07472)
-  
 * **Zhijian Duan**, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, Xiaotie Deng. [A Context-Integrated Transformer-Based Neural Network for Auction Design](https://proceedings.mlr.press/v162/duan22a.html). In **ICML 2022**. [[arXiv]](https://arXiv.org/abs/2201.12489)[[code]](https://github.com/zjduan/CITransNet)
-
 * Yixu Gao, Kun Shao, **Zhijian Duan**, Zhongyu Wei, Dong Li, Bin Wang, Mengchen Zhao, Jianye Hao. [Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_33). In **DASFAA 2022**.
-
 * Weiping Song, Chence Shi, Zhiping Xiao, **Zhijian Duan**, Yewen Xu, Ming Zhang, Jian Tang. [Autoint: Automatic feature interaction learning via self-attentive neural networks](https://dl.acm.org/doi/10.1145/3357384.3357925). In **CIKM 2019**. [[arXiv]](https://arXiv.org/abs/1810.11921)[[code]](https://github.com/shichence/AutoInt)  
 
 ## Preprints
